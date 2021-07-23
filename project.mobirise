@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Juice Solutions",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,7 +39,16 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
     "versionPublish": "5.3.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/lemon-slice-background1.ico",
+    "imageResize": true,
+    "mbrsiteDomain": "ei7u3aitoa",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
